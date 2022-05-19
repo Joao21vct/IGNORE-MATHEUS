@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'infinit';
+    src: url(infinit/Infinite\ Darkness.ttf);
+}
+
+p{
+    font-family: 'infinit', cursive, Arial, Helvetica, sans-serif;
+}
